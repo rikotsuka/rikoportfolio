@@ -598,15 +598,17 @@ span.x4:before,i.x4:before {
     letter-spacing: 2px;
     font-size: 14px;
 }
-
-img.logo {
-    max-height: 29px;
-    margin-top: 20px;
+/* img.logo.img-responsive {
+    position: relative;
+    width: 200px;
+} */
+a.logo-dark.smoothie {
+    width: 200px;
 }
 
 .navbar-toggle .icon-bar {
     display: block;
-    width: 22px;
+    width: 200px;
     height: 2px;
     border-radius: 0px;
     background: #fff;
