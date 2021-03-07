@@ -398,6 +398,8 @@ span.x4:before,i.x4:before {
     font-weight: 700;
     font-size: 16px;
     margin-bottom: 0;
+    line-height: 1.5;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .hover-overlay-cat {
@@ -1290,9 +1292,7 @@ p .widget-title {
     left: -27px;
 
 }
-.instagram acount{
-    
-}
+
 /*-----------------------------------------------------------------------------------*/
 /*  RESPONSIVE
 /*-----------------------------------------------------------------------------------*/
