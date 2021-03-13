@@ -1686,6 +1686,10 @@ a.logo-light {
 .backstretched:hover .backstrech-controls a {
     opacity: 1;
 }
+.br::before {
+	content: "\A" ;
+	white-space: pre ;
+}
 .picture_shopify {
     text-align: center;
 }
