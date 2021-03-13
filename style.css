@@ -1686,7 +1686,9 @@ a.logo-light {
 .backstretched:hover .backstrech-controls a {
     opacity: 1;
 }
-
+.picture_shopify {
+    text-align: center;
+}
 /* PROGRESS BAR */
 .progress {
     height: 20px;
